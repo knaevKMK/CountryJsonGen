@@ -1,0 +1,1724 @@
+[
+    {
+        "name": "Afghanistan",
+        "dialCode": "\u002B93",
+        "isoCode": "AF",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDEB"
+    },
+    {
+        "name": "Aland Islands",
+        "dialCode": "\u002B358",
+        "isoCode": "AX",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Albania",
+        "dialCode": "\u002B355",
+        "isoCode": "AL",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDF1"
+    },
+    {
+        "name": "Algeria",
+        "dialCode": "\u002B213",
+        "isoCode": "DZ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE9\uD83C\uDDFF"
+    },
+    {
+        "name": "American Samoa",
+        "dialCode": "\u002B1684",
+        "isoCode": "AS",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDF8"
+    },
+    {
+        "name": "Andorra",
+        "dialCode": "\u002B376",
+        "isoCode": "AD",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDE9"
+    },
+    {
+        "name": "Angola",
+        "dialCode": "\u002B244",
+        "isoCode": "AO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDF4"
+    },
+    {
+        "name": "Anguilla",
+        "dialCode": "\u002B1264",
+        "isoCode": "AI",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDEE"
+    },
+    {
+        "name": "Antarctica",
+        "dialCode": "\u002B672",
+        "isoCode": "AQ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDF6"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "dialCode": "\u002B1268",
+        "isoCode": "AG",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDEC"
+    },
+    {
+        "name": "Argentina",
+        "dialCode": "\u002B54",
+        "isoCode": "AR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDF7"
+    },
+    {
+        "name": "Armenia",
+        "dialCode": "\u002B374",
+        "isoCode": "AM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDF2"
+    },
+    {
+        "name": "Aruba",
+        "dialCode": "\u002B297",
+        "isoCode": "AW",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDFC"
+    },
+    {
+        "name": "Ascension Island",
+        "dialCode": "\u002B247",
+        "isoCode": "AC",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Australia",
+        "dialCode": "\u002B61",
+        "isoCode": "AU",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDFA"
+    },
+    {
+        "name": "Austria",
+        "dialCode": "\u002B43",
+        "isoCode": "AT",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDF9"
+    },
+    {
+        "name": "Azerbaijan",
+        "dialCode": "\u002B994",
+        "isoCode": "AZ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDFF"
+    },
+    {
+        "name": "Bahamas",
+        "dialCode": "\u002B1242",
+        "isoCode": "BS",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDF8"
+    },
+    {
+        "name": "Bahrain",
+        "dialCode": "\u002B973",
+        "isoCode": "BH",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDED"
+    },
+    {
+        "name": "Bangladesh",
+        "dialCode": "\u002B880",
+        "isoCode": "BD",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDE9"
+    },
+    {
+        "name": "Barbados",
+        "dialCode": "\u002B1246",
+        "isoCode": "BB",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDE7"
+    },
+    {
+        "name": "Belarus",
+        "dialCode": "\u002B375",
+        "isoCode": "BY",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDFE"
+    },
+    {
+        "name": "Belgium",
+        "dialCode": "\u002B32",
+        "isoCode": "BE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDEA"
+    },
+    {
+        "name": "Belize",
+        "dialCode": "\u002B501",
+        "isoCode": "BZ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDFF"
+    },
+    {
+        "name": "Benin",
+        "dialCode": "\u002B229",
+        "isoCode": "BJ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDEF"
+    },
+    {
+        "name": "Bermuda",
+        "dialCode": "\u002B1441",
+        "isoCode": "BM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDF2"
+    },
+    {
+        "name": "Bhutan",
+        "dialCode": "\u002B975",
+        "isoCode": "BT",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDF9"
+    },
+    {
+        "name": "Bolivia",
+        "dialCode": "\u002B591",
+        "isoCode": "BO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDF4"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "dialCode": "\u002B387",
+        "isoCode": "BA",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDE6"
+    },
+    {
+        "name": "Botswana",
+        "dialCode": "\u002B267",
+        "isoCode": "BW",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDFC"
+    },
+    {
+        "name": "Brazil",
+        "dialCode": "\u002B55",
+        "isoCode": "BR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDF7"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "dialCode": "\u002B246",
+        "isoCode": "IO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEE\uD83C\uDDF4"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "dialCode": "\u002B673",
+        "isoCode": "BN",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Bulgaria",
+        "dialCode": "\u002B359",
+        "isoCode": "BG",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDEC"
+    },
+    {
+        "name": "Burkina Faso",
+        "dialCode": "\u002B226",
+        "isoCode": "BF",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDEB"
+    },
+    {
+        "name": "Burundi",
+        "dialCode": "\u002B257",
+        "isoCode": "BI",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE7\uD83C\uDDEE"
+    },
+    {
+        "name": "Cambodia",
+        "dialCode": "\u002B855",
+        "isoCode": "KH",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF0\uD83C\uDDED"
+    },
+    {
+        "name": "Cameroon",
+        "dialCode": "\u002B237",
+        "isoCode": "CM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDF2"
+    },
+    {
+        "name": "Canada",
+        "dialCode": "\u002B1",
+        "isoCode": "CA",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDE6"
+    },
+    {
+        "name": "Cape Verde",
+        "dialCode": "\u002B238",
+        "isoCode": "CV",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDFB"
+    },
+    {
+        "name": "Cayman Islands",
+        "dialCode": "\u002B1345",
+        "isoCode": "KY",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF0\uD83C\uDDFE"
+    },
+    {
+        "name": "Central African Republic",
+        "dialCode": "\u002B236",
+        "isoCode": "CF",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDEB"
+    },
+    {
+        "name": "Chad",
+        "dialCode": "\u002B235",
+        "isoCode": "TD",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDE9"
+    },
+    {
+        "name": "Chile",
+        "dialCode": "\u002B56",
+        "isoCode": "CL",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDF1"
+    },
+    {
+        "name": "China",
+        "dialCode": "\u002B86",
+        "isoCode": "CN",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDF3"
+    },
+    {
+        "name": "Christmas Island",
+        "dialCode": "\u002B61",
+        "isoCode": "CX",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDFD"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "dialCode": "\u002B61",
+        "isoCode": "CC",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDE8"
+    },
+    {
+        "name": "Colombia",
+        "dialCode": "\u002B57",
+        "isoCode": "CO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDF4"
+    },
+    {
+        "name": "Comoros",
+        "dialCode": "\u002B269",
+        "isoCode": "KM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF0\uD83C\uDDF2"
+    },
+    {
+        "name": "Congo",
+        "dialCode": "\u002B242",
+        "isoCode": "CG",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Cook Islands",
+        "dialCode": "\u002B682",
+        "isoCode": "CK",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDF0"
+    },
+    {
+        "name": "Costa Rica",
+        "dialCode": "\u002B506",
+        "isoCode": "CR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDF7"
+    },
+    {
+        "name": "Croatia",
+        "dialCode": "\u002B385",
+        "isoCode": "HR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDED\uD83C\uDDF7"
+    },
+    {
+        "name": "Cuba",
+        "dialCode": "\u002B53",
+        "isoCode": "CU",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDFA"
+    },
+    {
+        "name": "Cyprus",
+        "dialCode": "\u002B357",
+        "isoCode": "CY",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDFE"
+    },
+    {
+        "name": "Czech Republic",
+        "dialCode": "\u002B420",
+        "isoCode": "CZ",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "dialCode": "\u002B243",
+        "isoCode": "CD",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Denmark",
+        "dialCode": "\u002B45",
+        "isoCode": "DK",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE9\uD83C\uDDF0"
+    },
+    {
+        "name": "Djibouti",
+        "dialCode": "\u002B253",
+        "isoCode": "DJ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE9\uD83C\uDDEF"
+    },
+    {
+        "name": "Dominica",
+        "dialCode": "\u002B1767",
+        "isoCode": "DM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE9\uD83C\uDDF2"
+    },
+    {
+        "name": "Dominican Republic",
+        "dialCode": "\u002B1849",
+        "isoCode": "DO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE9\uD83C\uDDF4"
+    },
+    {
+        "name": "Ecuador",
+        "dialCode": "\u002B593",
+        "isoCode": "EC",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEA\uD83C\uDDE8"
+    },
+    {
+        "name": "Egypt",
+        "dialCode": "\u002B20",
+        "isoCode": "EG",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEA\uD83C\uDDEC"
+    },
+    {
+        "name": "El Salvador",
+        "dialCode": "\u002B503",
+        "isoCode": "SV",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDFB"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "dialCode": "\u002B240",
+        "isoCode": "GQ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDF6"
+    },
+    {
+        "name": "Eritrea",
+        "dialCode": "\u002B291",
+        "isoCode": "ER",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEA\uD83C\uDDF7"
+    },
+    {
+        "name": "Estonia",
+        "dialCode": "\u002B372",
+        "isoCode": "EE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEA\uD83C\uDDEA"
+    },
+    {
+        "name": "Eswatini",
+        "dialCode": "\u002B268",
+        "isoCode": "SZ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDFF"
+    },
+    {
+        "name": "Ethiopia",
+        "dialCode": "\u002B251",
+        "isoCode": "ET",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEA\uD83C\uDDF9"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "dialCode": "\u002B500",
+        "isoCode": "FK",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Faroe Islands",
+        "dialCode": "\u002B298",
+        "isoCode": "FO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEB\uD83C\uDDF4"
+    },
+    {
+        "name": "Fiji",
+        "dialCode": "\u002B679",
+        "isoCode": "FJ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEB\uD83C\uDDEF"
+    },
+    {
+        "name": "Finland",
+        "dialCode": "\u002B358",
+        "isoCode": "FI",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEB\uD83C\uDDEE"
+    },
+    {
+        "name": "France",
+        "dialCode": "\u002B33",
+        "isoCode": "FR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEB\uD83C\uDDF7"
+    },
+    {
+        "name": "French Guiana",
+        "dialCode": "\u002B594",
+        "isoCode": "GF",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDEB"
+    },
+    {
+        "name": "French Polynesia",
+        "dialCode": "\u002B689",
+        "isoCode": "PF",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDEB"
+    },
+    {
+        "name": "Gabon",
+        "dialCode": "\u002B241",
+        "isoCode": "GA",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDE6"
+    },
+    {
+        "name": "Gambia",
+        "dialCode": "\u002B220",
+        "isoCode": "GM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDF2"
+    },
+    {
+        "name": "Georgia",
+        "dialCode": "\u002B995",
+        "isoCode": "GE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDEA"
+    },
+    {
+        "name": "Germany",
+        "dialCode": "\u002B49",
+        "isoCode": "DE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE9\uD83C\uDDEA"
+    },
+    {
+        "name": "Ghana",
+        "dialCode": "\u002B233",
+        "isoCode": "GH",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDED"
+    },
+    {
+        "name": "Gibraltar",
+        "dialCode": "\u002B350",
+        "isoCode": "GI",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDEE"
+    },
+    {
+        "name": "Greece",
+        "dialCode": "\u002B30",
+        "isoCode": "GR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDF7"
+    },
+    {
+        "name": "Greenland",
+        "dialCode": "\u002B299",
+        "isoCode": "GL",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDF1"
+    },
+    {
+        "name": "Grenada",
+        "dialCode": "\u002B1473",
+        "isoCode": "GD",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDE9"
+    },
+    {
+        "name": "Guadeloupe",
+        "dialCode": "\u002B590",
+        "isoCode": "GP",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDF5"
+    },
+    {
+        "name": "Guam",
+        "dialCode": "\u002B1671",
+        "isoCode": "GU",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDFA"
+    },
+    {
+        "name": "Guatemala",
+        "dialCode": "\u002B502",
+        "isoCode": "GT",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDF9"
+    },
+    {
+        "name": "Guernsey",
+        "dialCode": "\u002B44",
+        "isoCode": "GG",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDEC"
+    },
+    {
+        "name": "Guinea",
+        "dialCode": "\u002B224",
+        "isoCode": "GN",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDF3"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "dialCode": "\u002B245",
+        "isoCode": "GW",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDFC"
+    },
+    {
+        "name": "Guyana",
+        "dialCode": "\u002B592",
+        "isoCode": "GY",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDFE"
+    },
+    {
+        "name": "Haiti",
+        "dialCode": "\u002B509",
+        "isoCode": "HT",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDED\uD83C\uDDF9"
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "dialCode": "\u002B379",
+        "isoCode": "VA",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Honduras",
+        "dialCode": "\u002B504",
+        "isoCode": "HN",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDED\uD83C\uDDF3"
+    },
+    {
+        "name": "Hong Kong",
+        "dialCode": "\u002B852",
+        "isoCode": "HK",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDED\uD83C\uDDF0"
+    },
+    {
+        "name": "Hungary",
+        "dialCode": "\u002B36",
+        "isoCode": "HU",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDED\uD83C\uDDFA"
+    },
+    {
+        "name": "Iceland",
+        "dialCode": "\u002B354",
+        "isoCode": "IS",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEE\uD83C\uDDF8"
+    },
+    {
+        "name": "India",
+        "dialCode": "\u002B91",
+        "isoCode": "IN",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEE\uD83C\uDDF3"
+    },
+    {
+        "name": "Indonesia",
+        "dialCode": "\u002B62",
+        "isoCode": "ID",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEE\uD83C\uDDE9"
+    },
+    {
+        "name": "Iran",
+        "dialCode": "\u002B98",
+        "isoCode": "IR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEE\uD83C\uDDF7"
+    },
+    {
+        "name": "Iraq",
+        "dialCode": "\u002B964",
+        "isoCode": "IQ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEE\uD83C\uDDF6"
+    },
+    {
+        "name": "Ireland",
+        "dialCode": "\u002B353",
+        "isoCode": "IE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEE\uD83C\uDDEA"
+    },
+    {
+        "name": "Isle of Man",
+        "dialCode": "\u002B44",
+        "isoCode": "IM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEE\uD83C\uDDF2"
+    },
+    {
+        "name": "Israel",
+        "dialCode": "\u002B972",
+        "isoCode": "IL",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEE\uD83C\uDDF1"
+    },
+    {
+        "name": "Italy",
+        "dialCode": "\u002B39",
+        "isoCode": "IT",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEE\uD83C\uDDF9"
+    },
+    {
+        "name": "Ivory Coast / Cote d\u0027Ivoire",
+        "dialCode": "\u002B225",
+        "isoCode": "CI",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Jamaica",
+        "dialCode": "\u002B1876",
+        "isoCode": "JM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEF\uD83C\uDDF2"
+    },
+    {
+        "name": "Japan",
+        "dialCode": "\u002B81",
+        "isoCode": "JP",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEF\uD83C\uDDF5"
+    },
+    {
+        "name": "Jersey",
+        "dialCode": "\u002B44",
+        "isoCode": "JE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEF\uD83C\uDDEA"
+    },
+    {
+        "name": "Jordan",
+        "dialCode": "\u002B962",
+        "isoCode": "JO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEF\uD83C\uDDF4"
+    },
+    {
+        "name": "Kazakhstan",
+        "dialCode": "\u002B77",
+        "isoCode": "KZ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF0\uD83C\uDDFF"
+    },
+    {
+        "name": "Kenya",
+        "dialCode": "\u002B254",
+        "isoCode": "KE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF0\uD83C\uDDEA"
+    },
+    {
+        "name": "Kiribati",
+        "dialCode": "\u002B686",
+        "isoCode": "KI",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF0\uD83C\uDDEE"
+    },
+    {
+        "name": "Korea, Democratic People\u0027s Republic of Korea",
+        "dialCode": "\u002B850",
+        "isoCode": "KP",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Korea, Republic of South Korea",
+        "dialCode": "\u002B82",
+        "isoCode": "KR",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Kosovo",
+        "dialCode": "\u002B383",
+        "isoCode": "XK",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFD\uD83C\uDDF0"
+    },
+    {
+        "name": "Kuwait",
+        "dialCode": "\u002B965",
+        "isoCode": "KW",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF0\uD83C\uDDFC"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "dialCode": "\u002B996",
+        "isoCode": "KG",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF0\uD83C\uDDEC"
+    },
+    {
+        "name": "Laos",
+        "dialCode": "\u002B856",
+        "isoCode": "LA",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF1\uD83C\uDDE6"
+    },
+    {
+        "name": "Latvia",
+        "dialCode": "\u002B371",
+        "isoCode": "LV",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF1\uD83C\uDDFB"
+    },
+    {
+        "name": "Lebanon",
+        "dialCode": "\u002B961",
+        "isoCode": "LB",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF1\uD83C\uDDE7"
+    },
+    {
+        "name": "Lesotho",
+        "dialCode": "\u002B266",
+        "isoCode": "LS",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF1\uD83C\uDDF8"
+    },
+    {
+        "name": "Liberia",
+        "dialCode": "\u002B231",
+        "isoCode": "LR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF1\uD83C\uDDF7"
+    },
+    {
+        "name": "Libya",
+        "dialCode": "\u002B218",
+        "isoCode": "LY",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF1\uD83C\uDDFE"
+    },
+    {
+        "name": "Liechtenstein",
+        "dialCode": "\u002B423",
+        "isoCode": "LI",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF1\uD83C\uDDEE"
+    },
+    {
+        "name": "Lithuania",
+        "dialCode": "\u002B370",
+        "isoCode": "LT",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF1\uD83C\uDDF9"
+    },
+    {
+        "name": "Luxembourg",
+        "dialCode": "\u002B352",
+        "isoCode": "LU",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF1\uD83C\uDDFA"
+    },
+    {
+        "name": "Macau",
+        "dialCode": "\u002B853",
+        "isoCode": "MO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDF4"
+    },
+    {
+        "name": "Madagascar",
+        "dialCode": "\u002B261",
+        "isoCode": "MG",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDEC"
+    },
+    {
+        "name": "Malawi",
+        "dialCode": "\u002B265",
+        "isoCode": "MW",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDFC"
+    },
+    {
+        "name": "Malaysia",
+        "dialCode": "\u002B60",
+        "isoCode": "MY",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDFE"
+    },
+    {
+        "name": "Maldives",
+        "dialCode": "\u002B960",
+        "isoCode": "MV",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDFB"
+    },
+    {
+        "name": "Mali",
+        "dialCode": "\u002B223",
+        "isoCode": "ML",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDF1"
+    },
+    {
+        "name": "Malta",
+        "dialCode": "\u002B356",
+        "isoCode": "MT",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDF9"
+    },
+    {
+        "name": "Marshall Islands",
+        "dialCode": "\u002B692",
+        "isoCode": "MH",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDED"
+    },
+    {
+        "name": "Martinique",
+        "dialCode": "\u002B596",
+        "isoCode": "MQ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDF6"
+    },
+    {
+        "name": "Mauritania",
+        "dialCode": "\u002B222",
+        "isoCode": "MR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDF7"
+    },
+    {
+        "name": "Mauritius",
+        "dialCode": "\u002B230",
+        "isoCode": "MU",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDFA"
+    },
+    {
+        "name": "Mayotte",
+        "dialCode": "\u002B262",
+        "isoCode": "YT",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFE\uD83C\uDDF9"
+    },
+    {
+        "name": "Mexico",
+        "dialCode": "\u002B52",
+        "isoCode": "MX",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDFD"
+    },
+    {
+        "name": "Micronesia, Federated States of Micronesia",
+        "dialCode": "\u002B691",
+        "isoCode": "FM",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Moldova",
+        "dialCode": "\u002B373",
+        "isoCode": "MD",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDE9"
+    },
+    {
+        "name": "Monaco",
+        "dialCode": "\u002B377",
+        "isoCode": "MC",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDE8"
+    },
+    {
+        "name": "Mongolia",
+        "dialCode": "\u002B976",
+        "isoCode": "MN",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDF3"
+    },
+    {
+        "name": "Montenegro",
+        "dialCode": "\u002B382",
+        "isoCode": "ME",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDEA"
+    },
+    {
+        "name": "Montserrat",
+        "dialCode": "\u002B1664",
+        "isoCode": "MS",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDF8"
+    },
+    {
+        "name": "Morocco",
+        "dialCode": "\u002B212",
+        "isoCode": "MA",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDE6"
+    },
+    {
+        "name": "Mozambique",
+        "dialCode": "\u002B258",
+        "isoCode": "MZ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDFF"
+    },
+    {
+        "name": "Myanmar",
+        "dialCode": "\u002B95",
+        "isoCode": "MM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDF2"
+    },
+    {
+        "name": "Namibia",
+        "dialCode": "\u002B264",
+        "isoCode": "NA",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDE6"
+    },
+    {
+        "name": "Nauru",
+        "dialCode": "\u002B674",
+        "isoCode": "NR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDF7"
+    },
+    {
+        "name": "Nepal",
+        "dialCode": "\u002B977",
+        "isoCode": "NP",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDF5"
+    },
+    {
+        "name": "Netherlands",
+        "dialCode": "\u002B31",
+        "isoCode": "NL",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDF1"
+    },
+    {
+        "name": "Netherlands Antilles",
+        "dialCode": "\u002B599",
+        "isoCode": "AN",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "New Caledonia",
+        "dialCode": "\u002B687",
+        "isoCode": "NC",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDE8"
+    },
+    {
+        "name": "New Zealand",
+        "dialCode": "\u002B64",
+        "isoCode": "NZ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDFF"
+    },
+    {
+        "name": "Nicaragua",
+        "dialCode": "\u002B505",
+        "isoCode": "NI",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDEE"
+    },
+    {
+        "name": "Niger",
+        "dialCode": "\u002B227",
+        "isoCode": "NE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDEA"
+    },
+    {
+        "name": "Nigeria",
+        "dialCode": "\u002B234",
+        "isoCode": "NG",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDEC"
+    },
+    {
+        "name": "Niue",
+        "dialCode": "\u002B683",
+        "isoCode": "NU",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDFA"
+    },
+    {
+        "name": "Norfolk Island",
+        "dialCode": "\u002B672",
+        "isoCode": "NF",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDEB"
+    },
+    {
+        "name": "North Macedonia",
+        "dialCode": "\u002B389",
+        "isoCode": "MK",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDF0"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "dialCode": "\u002B1670",
+        "isoCode": "MP",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDF5"
+    },
+    {
+        "name": "Norway",
+        "dialCode": "\u002B47",
+        "isoCode": "NO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF3\uD83C\uDDF4"
+    },
+    {
+        "name": "Oman",
+        "dialCode": "\u002B968",
+        "isoCode": "OM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF4\uD83C\uDDF2"
+    },
+    {
+        "name": "Pakistan",
+        "dialCode": "\u002B92",
+        "isoCode": "PK",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDF0"
+    },
+    {
+        "name": "Palau",
+        "dialCode": "\u002B680",
+        "isoCode": "PW",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDFC"
+    },
+    {
+        "name": "Palestine",
+        "dialCode": "\u002B970",
+        "isoCode": "PS",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDF8"
+    },
+    {
+        "name": "Panama",
+        "dialCode": "\u002B507",
+        "isoCode": "PA",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDE6"
+    },
+    {
+        "name": "Papua New Guinea",
+        "dialCode": "\u002B675",
+        "isoCode": "PG",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDEC"
+    },
+    {
+        "name": "Paraguay",
+        "dialCode": "\u002B595",
+        "isoCode": "PY",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDFE"
+    },
+    {
+        "name": "Peru",
+        "dialCode": "\u002B51",
+        "isoCode": "PE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDEA"
+    },
+    {
+        "name": "Philippines",
+        "dialCode": "\u002B63",
+        "isoCode": "PH",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDED"
+    },
+    {
+        "name": "Pitcairn",
+        "dialCode": "\u002B872",
+        "isoCode": "PN",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Poland",
+        "dialCode": "\u002B48",
+        "isoCode": "PL",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDF1"
+    },
+    {
+        "name": "Portugal",
+        "dialCode": "\u002B351",
+        "isoCode": "PT",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDF9"
+    },
+    {
+        "name": "Puerto Rico",
+        "dialCode": "\u002B1939",
+        "isoCode": "PR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDF7"
+    },
+    {
+        "name": "Qatar",
+        "dialCode": "\u002B974",
+        "isoCode": "QA",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF6\uD83C\uDDE6"
+    },
+    {
+        "name": "Reunion",
+        "dialCode": "\u002B262",
+        "isoCode": "RE",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Romania",
+        "dialCode": "\u002B40",
+        "isoCode": "RO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF7\uD83C\uDDF4"
+    },
+    {
+        "name": "Russia",
+        "dialCode": "\u002B7",
+        "isoCode": "RU",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF7\uD83C\uDDFA"
+    },
+    {
+        "name": "Rwanda",
+        "dialCode": "\u002B250",
+        "isoCode": "RW",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF7\uD83C\uDDFC"
+    },
+    {
+        "name": "Saint Barthelemy",
+        "dialCode": "\u002B590",
+        "isoCode": "BL",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan Da Cunha",
+        "dialCode": "\u002B290",
+        "isoCode": "SH",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "dialCode": "\u002B1869",
+        "isoCode": "KN",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF0\uD83C\uDDF3"
+    },
+    {
+        "name": "Saint Lucia",
+        "dialCode": "\u002B1758",
+        "isoCode": "LC",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF1\uD83C\uDDE8"
+    },
+    {
+        "name": "Saint Martin",
+        "dialCode": "\u002B590",
+        "isoCode": "MF",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF2\uD83C\uDDEB"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "dialCode": "\u002B508",
+        "isoCode": "PM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF5\uD83C\uDDF2"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "dialCode": "\u002B1784",
+        "isoCode": "VC",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFB\uD83C\uDDE8"
+    },
+    {
+        "name": "Samoa",
+        "dialCode": "\u002B685",
+        "isoCode": "WS",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFC\uD83C\uDDF8"
+    },
+    {
+        "name": "San Marino",
+        "dialCode": "\u002B378",
+        "isoCode": "SM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDF2"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "dialCode": "\u002B239",
+        "isoCode": "ST",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Saudi Arabia",
+        "dialCode": "\u002B966",
+        "isoCode": "SA",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDE6"
+    },
+    {
+        "name": "Senegal",
+        "dialCode": "\u002B221",
+        "isoCode": "SN",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDF3"
+    },
+    {
+        "name": "Serbia",
+        "dialCode": "\u002B381",
+        "isoCode": "RS",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF7\uD83C\uDDF8"
+    },
+    {
+        "name": "Seychelles",
+        "dialCode": "\u002B248",
+        "isoCode": "SC",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDE8"
+    },
+    {
+        "name": "Sierra Leone",
+        "dialCode": "\u002B232",
+        "isoCode": "SL",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDF1"
+    },
+    {
+        "name": "Singapore",
+        "dialCode": "\u002B65",
+        "isoCode": "SG",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDEC"
+    },
+    {
+        "name": "Sint Maarten",
+        "dialCode": "\u002B1721",
+        "isoCode": "SX",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDFD"
+    },
+    {
+        "name": "Slovakia",
+        "dialCode": "\u002B421",
+        "isoCode": "SK",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDF0"
+    },
+    {
+        "name": "Slovenia",
+        "dialCode": "\u002B386",
+        "isoCode": "SI",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDEE"
+    },
+    {
+        "name": "Solomon Islands",
+        "dialCode": "\u002B677",
+        "isoCode": "SB",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDE7"
+    },
+    {
+        "name": "Somalia",
+        "dialCode": "\u002B252",
+        "isoCode": "SO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDF4"
+    },
+    {
+        "name": "South Africa",
+        "dialCode": "\u002B27",
+        "isoCode": "ZA",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFF\uD83C\uDDE6"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "dialCode": "\u002B500",
+        "isoCode": "GS",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "South Sudan",
+        "dialCode": "\u002B211",
+        "isoCode": "SS",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDF8"
+    },
+    {
+        "name": "Spain",
+        "dialCode": "\u002B34",
+        "isoCode": "ES",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEA\uD83C\uDDF8"
+    },
+    {
+        "name": "Sri Lanka",
+        "dialCode": "\u002B94",
+        "isoCode": "LK",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF1\uD83C\uDDF0"
+    },
+    {
+        "name": "Sudan",
+        "dialCode": "\u002B249",
+        "isoCode": "SD",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDE9"
+    },
+    {
+        "name": "Suriname",
+        "dialCode": "\u002B597",
+        "isoCode": "SR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDF7"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "dialCode": "\u002B47",
+        "isoCode": "SJ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDEF"
+    },
+    {
+        "name": "Sweden",
+        "dialCode": "\u002B46",
+        "isoCode": "SE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF8\uD83C\uDDEA"
+    },
+    {
+        "name": "Switzerland",
+        "dialCode": "\u002B41",
+        "isoCode": "CH",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE8\uD83C\uDDED"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "dialCode": "\u002B963",
+        "isoCode": "SY",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Taiwan",
+        "dialCode": "\u002B886",
+        "isoCode": "TW",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDFC"
+    },
+    {
+        "name": "Tajikistan",
+        "dialCode": "\u002B992",
+        "isoCode": "TJ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDEF"
+    },
+    {
+        "name": "Tanzania, United Republic of Tanzania",
+        "dialCode": "\u002B255",
+        "isoCode": "TZ",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Thailand",
+        "dialCode": "\u002B66",
+        "isoCode": "TH",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDED"
+    },
+    {
+        "name": "Timor-Leste",
+        "dialCode": "\u002B670",
+        "isoCode": "TL",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDF1"
+    },
+    {
+        "name": "Togo",
+        "dialCode": "\u002B228",
+        "isoCode": "TG",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDEC"
+    },
+    {
+        "name": "Tokelau",
+        "dialCode": "\u002B690",
+        "isoCode": "TK",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDF0"
+    },
+    {
+        "name": "Tonga",
+        "dialCode": "\u002B676",
+        "isoCode": "TO",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDF4"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "dialCode": "\u002B1868",
+        "isoCode": "TT",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDF9"
+    },
+    {
+        "name": "Tunisia",
+        "dialCode": "\u002B216",
+        "isoCode": "TN",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDF3"
+    },
+    {
+        "name": "Turkey",
+        "dialCode": "\u002B90",
+        "isoCode": "TR",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDF7"
+    },
+    {
+        "name": "Turkmenistan",
+        "dialCode": "\u002B993",
+        "isoCode": "TM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDF2"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "dialCode": "\u002B1649",
+        "isoCode": "TC",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDE8"
+    },
+    {
+        "name": "Tuvalu",
+        "dialCode": "\u002B688",
+        "isoCode": "TV",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDF9\uD83C\uDDFB"
+    },
+    {
+        "name": "Uganda",
+        "dialCode": "\u002B256",
+        "isoCode": "UG",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFA\uD83C\uDDEC"
+    },
+    {
+        "name": "Ukraine",
+        "dialCode": "\u002B380",
+        "isoCode": "UA",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFA\uD83C\uDDE6"
+    },
+    {
+        "name": "United Arab Emirates",
+        "dialCode": "\u002B971",
+        "isoCode": "AE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDE6\uD83C\uDDEA"
+    },
+    {
+        "name": "United Kingdom",
+        "dialCode": "\u002B44",
+        "isoCode": "GB",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDEC\uD83C\uDDE7"
+    },
+    {
+        "name": "United States",
+        "dialCode": "\u002B1",
+        "isoCode": "US",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFA\uD83C\uDDF8"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "dialCode": "\u002B246",
+        "isoCode": "UMI",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFA\uD83C\uDDF2"
+    },
+    {
+        "name": "Uruguay",
+        "dialCode": "\u002B598",
+        "isoCode": "UY",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFA\uD83C\uDDFE"
+    },
+    {
+        "name": "Uzbekistan",
+        "dialCode": "\u002B998",
+        "isoCode": "UZ",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFA\uD83C\uDDFF"
+    },
+    {
+        "name": "Vanuatu",
+        "dialCode": "\u002B678",
+        "isoCode": "VU",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFB\uD83C\uDDFA"
+    },
+    {
+        "name": "Venezuela, Bolivarian Republic of Venezuela",
+        "dialCode": "\u002B58",
+        "isoCode": "VE",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Vietnam",
+        "dialCode": "\u002B84",
+        "isoCode": "VN",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFB\uD83C\uDDF3"
+    },
+    {
+        "name": "Virgin Islands, British",
+        "dialCode": "\u002B1284",
+        "isoCode": "VG",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Virgin Islands, U.S.",
+        "dialCode": "\u002B1340",
+        "isoCode": "VI",
+        "flagUrl": null,
+        "flagSymbol": null
+    },
+    {
+        "name": "Wallis and Futuna",
+        "dialCode": "\u002B681",
+        "isoCode": "WF",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFC\uD83C\uDDEB"
+    },
+    {
+        "name": "Yemen",
+        "dialCode": "\u002B967",
+        "isoCode": "YE",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFE\uD83C\uDDEA"
+    },
+    {
+        "name": "Zambia",
+        "dialCode": "\u002B260",
+        "isoCode": "ZM",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFF\uD83C\uDDF2"
+    },
+    {
+        "name": "Zimbabwe",
+        "dialCode": "\u002B263",
+        "isoCode": "ZW",
+        "flagUrl": null,
+        "flagSymbol": "\uD83C\uDDFF\uD83C\uDDFC"
+    }
+]
